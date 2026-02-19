@@ -51,4 +51,6 @@ Im Mail-Fenster (Reiter „Verschieben“) wählst du den Empfänger aus einem *
 
 ## Lizenz
 
-Siehe Projektstruktur; eingebundene Bibliotheken haben eigene Lizenzen.
+Dieses Addon steht unter der **MIT-Lizenz** (siehe [LICENSE](LICENSE)). Die eingebundenen Bibliotheken in `Libs/` haben ggf. eigene Lizenzen.
+
+**Haftungsausschluss:** Das Addon wird „wie besehen“ bereitgestellt, ohne Gewähr. Nutzung erfolgt auf eigene Verantwortung. Die Autoren haften nicht für direkte oder indirekte Schäden (z. B. verlorene Items, Account-Probleme), die durch die Nutzung entstehen. Bei Aktionen wie Quest-Abbruch, Verkauf oder Zerstörung von Gegenständen gilt: Der Nutzer handelt auf eigenes Risiko.
