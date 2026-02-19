@@ -27,6 +27,9 @@ Addon-Ordner `wowhelpers` in den Pfad
 - Reagenzientasche wird mit einbezogen.
 - Blacklist für Chars, Paketversand (12 Items pro Mail), Fortschrittsanzeige.
 
+**Empfänger / Zielliste:**  
+Im Mail-Fenster (Reiter „Verschieben“) wählst du den Empfänger aus einem **Dropdown**. Die Liste enthält nur Charaktere vom **gleichen Realm und gleicher Fraktion**, an die du mit diesem Addon oder normal per „Post versenden“ schon einmal erfolgreich eine Mail geschickt hast. Es werden keine Namen manuell eingegeben – wer in der Liste erscheinen soll, muss mindestens einmal als Empfänger einer erfolgreich versendeten Mail vorkommen (danach speichert das Addon ihn in der Zielliste). Beim ersten Mal: einmal „normal“ eine Mail an deinen Alt schicken (Namen im Spiel-Empfängerfeld eintippen und absenden), danach steht der Char im Dropdown für „Verschieben“. Der zuletzt gewählte Empfänger wird pro Charakter gemerkt. Einträge entfernst du mit `/wh mailcharpurge <Name>`.
+
 ### Verkaufen & Zerstören
 
 - **Verkaufen:** Am Händler alles verkaufen, was einen Händlerpreis hat (`hasNoValue`-Logik wie Baganator).
