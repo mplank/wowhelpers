@@ -1,0 +1,14 @@
+## Interface: 120000, 120001
+## Title: wowhelpers
+## Notes: Verschiedene kleine Helferlein für WoW
+## Author: Copilot
+## SavedVariables: WowhelpersMailDB
+
+Libs\LibStub\LibStub.lua
+Libs\CallbackHandler-1.0\CallbackHandler-1.0.lua
+Libs\AceAddon-3.0\AceAddon-3.0.lua
+wowhelpers.lua
+helpers\Quests.lua
+helpers\Sell.lua
+helpers\Mail.lua
+wowhelpers.xml

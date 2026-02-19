@@ -1,0 +1,6 @@
+## Interface: 12001
+## Title: StachelpfeilHelper
+## Notes: Zeigt den Stachelpfeil-Buff an
+## Author: Copilot
+StachelpfeilHelper.lua
+StachelpfeilHelper.xml
